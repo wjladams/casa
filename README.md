@@ -1,4 +1,4 @@
-# Casa Montessori DeLand FL 2019-2020 Mathematics
+# Casa Montessori 2019 Math
 Place to communicate work to students of math at Casa
 
 # Classes

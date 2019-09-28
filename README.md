@@ -8,7 +8,7 @@
     * [Shakespeare group](language_shakespeare_work)
 * Humanities
     * [Chaucer group](humanities_chaucer_work)
-    * [Shakespeare group](humanities_shakespeare_group)
+    * [Shakespeare group](humanities_shakespeare_work)
 
 # Projects
 * [Project Ideas](project_ideas.md)

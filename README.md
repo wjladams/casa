@@ -3,8 +3,8 @@ Place to communicate work to students of math at Casa
 
 # Classwork list
 
-* [Algebra Group](algebra_work.md)
-* [Geometry Group](geometry_work.md)
+* [Algebra Group](algebra_work)
+* [Geometry Group](geometry_work)
 
 # Projects
 * [Project Ideas](project_ideas.md)

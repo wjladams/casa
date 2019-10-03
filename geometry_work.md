@@ -20,10 +20,10 @@
 |AB 4-4|9/27|1-12, 51-57
 |AB 4-5|9/27|1-9, 11-21, 51-56
 |2-5|10/4|1-10, 31-35, 41-45, 56-60
-|Experiment 1-1 pg 7:|| Do steps 1-9 of the experiment
+|Experiment 1-1 pg 7:|10/4| Do steps 1-9 of the experiment
 |1.1 pg. 5|10/4|1-4, and time permitting 5-7
 |1.2 pg. 11|10/4|1-4 and time permitting 5-8
-|Experiment 1-2 pg. 12|10/4| Answer each of the 1,2, a-e, 1-2, a-e questions on that page.
+|Experiment 1-2 pg. 12|TBD| Answer each of the 1,2, a-e, 1-2, a-e questions on that page.
 |1.3 pg. 22|10/4|1-8 and time permitting 9-13
 |Construction 1-2|TBD|Know how to bisect an angle
 |Construction 1-3|TBD| Know how to duplicate an angle

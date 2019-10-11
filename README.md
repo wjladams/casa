@@ -1,12 +1,12 @@
-# Classwork list
-
-* Mathematics
+# General information
+* [Classrom Schedule for 2019-2020 School Year](Schedule2019-2020.pdf)
+* Classwork list for Mathematics
     * [Algebra Group (Chaucer)](algebra_work)
     * [Geometry Group (Shakespeare)](geometry_work)
-* Language
+* Classwork list for Language
     * [Chaucer group](language_chaucer_work)
     * [Shakespeare group](language_shakespeare_work)
-* Humanities
+* Classwork list for Humanities
     * [Chaucer group](humanities_chaucer_work)
     * [Shakespeare group](humanities_shakespeare_work)
 

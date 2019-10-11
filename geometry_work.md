@@ -27,7 +27,7 @@
 |1.3 pg. 22|10/4|1-8 and time permitting 9-13
 |Test 1-Review| 10/10 | [Algebra Review sheet](math/alg-test1-review.pdf) and [Review sheet solutions](math/alg-test1-review-solutions.pdf)
 |Test 1-Review| 10/10 | [Geometry Review sheet](math/geom-test1-review.pdf) and [Review sheet solutions](math/geom-test1-review-solutions.pdf)
-|Test 1 | Thursday 10/10 |
+|Test 1 | 10/10 | [Download test](math/geom-test1.pdf)
 |Construction 1-2|TBD|Know how to bisect an angle
 |Construction 1-3|TBD| Know how to duplicate an angle
 |Experiment 1-3|TBD| Answer questions 1 and 2.

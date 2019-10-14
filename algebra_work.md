@@ -19,5 +19,6 @@
 |4-3|10/4|1-10, 36-41, 61-65
 |Test 1-Review| 10/10 | [Review sheet](math/alg-test1-review.pdf) and [Review sheet solutions](math/alg-test1-review-solutions.pdf)
 |Test 1 | 10/10 | [Download test](math/alg-test1.pdf)
+|Test 1 Corrections | 10/15 | Due Tuesday in class
 |4-4|TBD|1-12, 51-57
 |4-5|TBD|1-9, 11-21, 51-56

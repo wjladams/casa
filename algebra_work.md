@@ -22,3 +22,6 @@
 |Test 1 Corrections | 10/15 | Due Tuesday in class
 |4-4|TBD|1-12, 51-57
 |4-5|TBD|1-9, 11-21, 51-56
+|Biography | 10/16 | Directions step 1 from [biography](math/biography-project)
+|Biography | 10/16 | Directions steps 2,3 from [biography](math/biography-project)
+

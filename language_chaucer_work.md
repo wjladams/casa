@@ -2,5 +2,5 @@
 
 | Due Date | Assignment |
 |----------|------------|
-|None | [Proof Reading Marks](lang/proofreadingmarks.pdf)
+|None | [Proof Reading Marks](lang/ProofreadingMarks.pdf)
 

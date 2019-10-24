@@ -9,6 +9,8 @@
 * Classwork list for Humanities
     * [Chaucer group](humanities_chaucer_work)
     * [Shakespeare group](humanities_shakespeare_work)
-
+* Classwork list for Science
+    * [Einstein group]
+    * [Newton group]
 # Projects
 * [Project Ideas](project_ideas.md)

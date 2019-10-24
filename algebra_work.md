@@ -24,4 +24,5 @@
 |4-5|TBD|1-9, 11-21, 51-56
 |Biography | 10/16 | Directions step 1 from [biography](math/biography-project)
 |Biography | 10/16 | Directions steps 2,3 from [biography](math/biography-project)
+|11-1 | 10/25 | 1-13, 37-41
 

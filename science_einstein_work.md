@@ -1,3 +1,4 @@
 # Einstein Science Classwork
-| Due Date | Assingment |
+| Due Date | Assignment |
 |----------|------------|
+| 10/28 | Scientific Method Airplane Lab |

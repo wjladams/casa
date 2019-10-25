@@ -1,3 +1,3 @@
-Read Me
+# Newton Science Classwork
 | Due Date | Assignment |
 | -------- | ---------- |

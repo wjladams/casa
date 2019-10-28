@@ -26,5 +26,5 @@
 |Biography | 10/16 | Directions steps 2,3 from [biography](math/biography-project)
 |11-1 | 10/25 | 1-13, 37-41
 |11-5 | 10/28 | 1-7, 16-24, 25-29
-|Pythagorean Proof 1| 11/1 | 2 pages in your notebook, left side the triangles with areas, right side the cut out pieces to make the larger square.  The image is available [here](PythagoreanProof1.png)
-|Pythagorean Proof 2| 11/1 | 2 pages in your notebook.  The left side is the 4 triangles, the right side are the triangles making a larger square.  Below the square put the algebra steps of the proof.  The image is available [here](PythagoreanProof2.png)
+|Pythagorean Proof 1| 11/1 | 2 pages in your notebook, left side the triangles with areas, right side the cut out pieces to make the larger square.  The image is available [here](math/PythagoreanProof1.png)
+|Pythagorean Proof 2| 11/1 | 2 pages in your notebook.  The left side is the 4 triangles, the right side are the triangles making a larger square.  Below the square put the algebra steps of the proof.  The image is available [here](math/PythagoreanProof2.png)

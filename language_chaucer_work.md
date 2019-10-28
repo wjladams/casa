@@ -7,3 +7,4 @@
 |10/24| Numbers 1-5 / Beginning Sentence Diagramming (2 pages)
 |10/29| 3 Sentences to diagram / Predicate,Subject,Adjective,Adverb|
 |10/29| Lesson 2 pages 31-32 / Simple and Complex Subjects and Predicates|
+|11/01| Seminar 'I hate it when my brother Charlie has to go away" | 

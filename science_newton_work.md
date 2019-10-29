@@ -4,6 +4,7 @@
 | -------- | ---------- |
 | 10/21| Scientific Method Marshmallow Tower Lab |
 | 10/28 | Scientific Method Airplane Lab |
-| 10/28 | Observations and Inferences Assignments |
+| 10/28 | Observations and Inferences Assignments (in class)|
 | 11/19 | Scientist Biography |
 | none |[Scientist Biography Requirements](lang/scientistbiography.pdf)|
+|10/29| Ob-scertainer Lab (in class)|

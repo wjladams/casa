@@ -11,3 +11,5 @@
 |11/05| Sentence Diagramming / Subject, Predicate, Object #'s 1-5 |
 |11/05| Lesson 2 pages 33-34 / Simple and Complex Subjects and Predicates |
 |11/05| [Verbs: Actions or States of Being](lang/Verbs.pdf)|
+|11/05| Definitions of Literary Terms with Examples|
+|11/08| The Outsiders - read and be prepared to discuss chapters 1 and 2|

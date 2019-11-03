@@ -40,3 +40,5 @@
 |Pythagorean Proof 2| 11/1 | 2 pages in your notebook.  The left side is the 4 triangles, the right side are the triangles making a larger square.  Below the square put the algebra steps of the proof.  The image is available [here](math/PythagoreanProof2.png)
 |Pythagorean Proof 2a| 11/1 | Looking at the proof of the Pythagorean Theorem in your geometry textbook, explain why the smaller "square" is actually a **square**.
 |3.2| 11/1 | 1-9, 12, time permitting 17,18,26,27
+|Biography Presentation| 11/6 | Present [biography](math/biography-project)
+|2.1| 11/8 | 1-9,11,13,18 Time Permitting 10, 14, 15-17

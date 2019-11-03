@@ -13,6 +13,6 @@
 * Classwork list for Science
     * [Einstein group](science_einstein_work)
     * [Newton group](science_newton_work)
-    * [Make-up Work for Missed Labs](science_make-up)
+    * [Make-up Work for Missed Labs](science-make-up)
 # Projects
 * [Project Ideas](project_ideas.md)

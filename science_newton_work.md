@@ -8,4 +8,4 @@
 | 11/19 | Scientist Biography |
 | none |[Scientist Biography Requirements](lang/scientistbiography.pdf)|
 |10/29| Ob-scertainer Lab (in class)|
-|11/12| Bubble Gum Lab |
+|11/12| Scientific Method Bubble Gum Lab |

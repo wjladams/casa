@@ -13,3 +13,4 @@
 |11/05| [Verbs: Actions or States of Being](lang/Verbs.pdf)|
 |11/08| Definitions of Literary Terms with Examples|
 |11/08| The Outsiders - read and be prepared to discuss chapters 1 and 2|
+|11/14| Ten facts for Argumentative Essay (Cats vs Dogs as pets)|

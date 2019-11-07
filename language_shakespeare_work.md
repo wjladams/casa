@@ -8,4 +8,5 @@
 |11/05| Verbals - Participles pages 1-6 |
 |11/07| Unit Test on Verbals |
 |11/05| Definitions of Literary Terms with Examples|
-|11/05| Figurative Language Station worksheet|
+|11/08| Figurative Language Station worksheet|
+|11/08| That was Then, This is Now - read Chapter 1 | 

@@ -41,4 +41,4 @@
 |Pythagorean Proof 2a| 11/8 | Looking at the proof of the Pythagorean Theorem in your geometry textbook, explain why the smaller "square" is actually a **square**.
 |3.2| 11/8 | 1-9, 12, time permitting 17,18,26,27
 |Biography Presentation| 11/6 | Present [biography](math/biography-project)
-|2.1| 11/8 | 1-9,11,13,18 Time Permitting 10, 14, 15-17
+|2.1| 11/8 | 1-9,11,13 Time Permitting 10, 14, 15-17

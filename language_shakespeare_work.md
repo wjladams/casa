@@ -10,3 +10,4 @@
 |11/05| Definitions of Literary Terms with Examples|
 |11/08| Figurative Language Station worksheet|
 |11/08| That was Then, This is Now - read Chapter 1 | 
+|11/08| Blackout Poem|

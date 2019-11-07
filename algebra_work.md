@@ -29,3 +29,4 @@
 |4-4|11/8|1-12, 51-57
 |4-5|11/8|1-9, 11-21, 51-56
 |Biography Presentation| 11/6 | Present [biography](math/biography-project)
+|Connect dots | 11/8 | In class assignment on Cartesian coordinates

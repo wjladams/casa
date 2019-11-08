@@ -11,3 +11,4 @@
 |11/08| Figurative Language Station worksheet|
 |11/08| That was Then, This is Now - read Chapter 1 | 
 |11/08| Blackout Poem|
+|11/15| That was Then, This is Now - read Chapters 2, 3, and 4 - write four questions (grammatically correct) for each chapter|

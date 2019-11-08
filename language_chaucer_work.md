@@ -15,3 +15,5 @@
 |11/08| The Outsiders - read and be prepared to discuss chapters 1 and 2|
 |11/14| Ten facts for Argumentative Essay (Cats vs Dogs as pets)|
 |11/08| Blackout Poem|
+|11/15| The Outsiders - read and be prepared to discuss chapters 3, 4, and 5|
+|11/15| The Outsiders - Questions from chapters 1 and 2|

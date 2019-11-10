@@ -31,6 +31,7 @@
 |Biography Presentation| 11/6 | Present [biography](math/biography-project)
 |Connect dots | 11/8 | In class assignment on Cartesian coordinates
 |One step equations 1 | TBD | [One step equations part 1 assignment](https://docs.google.com/document/d/1mVe1_9AVvBvehVAnEJJdWW6ifMeI1hEgupKXZlPzSao/edit?usp=sharing)
+|One step equations - zero pairs | TBD | [One step equations - zero pairs assignment](https://docs.google.com/document/d/1WZtU4gxArIGzwlY2FPUaaauzgCk5m_9Ilfb1YxWPaYg/edit?usp=sharing)
 |One step equations 2 | TBD | [One step equations part 2 assignment](https://docs.google.com/document/d/1TEExZpl4dO4NSCkZOWZ8DA5It9G5QI7FIUclDsHVrlU/edit?usp=sharing)
 |Two step equations 1 | TBD | [Two step equations part 1 assignment](https://docs.google.com/document/d/1MfVK7ft2E-CaMHD66-1XALYtPqPtjJl7UkxYQG_q0ss/edit?usp=sharing)
 |Solving Equations 1 | TBD | [Solving equations showing work 1 assignment](https://docs.google.com/document/d/1br-hknoKakSXrfD3QMTfnkleFVvFc9fEdseyOVV1CGo/edit?usp=sharing)

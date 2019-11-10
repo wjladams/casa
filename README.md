@@ -1,9 +1,10 @@
 # General information
 * [Classrom Schedule for 2019-2020 School Year](Schedule2019-2020.pdf)
-* [Math late assignment policy](math_late_assignments)
 * Classwork list for Mathematics
-    * [Algebra Group (Chaucer)](algebra_work)
-    * [Geometry Group (Shakespeare)](geometry_work)
+  * [Algebra Group (Chaucer)](algebra_work)
+  * [Geometry Group (Shakespeare)](geometry_work)
+  * [Math late assignment policy](math_late_assignments)
+  * [Math resources](math_resources)
 * Classwork list for Language
     * [Chaucer group](language_chaucer_work)
     * [Shakespeare group](language_shakespeare_work)

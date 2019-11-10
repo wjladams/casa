@@ -42,3 +42,8 @@
 |3.2| 11/8 | 1-9, 12, time permitting 17,18,26,27
 |Biography Presentation| 11/6 | Present [biography](math/biography-project)
 |2.1| 11/8 | 1-9,11,13 Time Permitting 10, 14, 15-17
+|2.2| 11/15 | 1,3,5,7-10 
+|2.3| 11/15 | 1,2,4,5,6,8,10-15, Time permitting 16,17,20,21
+|1.4|TBD | 1-4, 6, 8, Time permitting 7,9-11
+|1.5|TBD | 1,2,3, 6, Time permitting 4, 5, 6, 7, 9
+|1.6| TBD| 1-5, 11, 15, 17, 20 Time permitting 7-9,13,14,16,22

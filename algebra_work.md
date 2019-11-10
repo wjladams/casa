@@ -30,3 +30,12 @@
 |4-5|11/8|1-9, 11-21, 51-56
 |Biography Presentation| 11/6 | Present [biography](math/biography-project)
 |Connect dots | 11/8 | In class assignment on Cartesian coordinates
+|One step equations 1 | TBD | [One step equations part 1 assignment](https://docs.google.com/document/d/1mVe1_9AVvBvehVAnEJJdWW6ifMeI1hEgupKXZlPzSao/edit?usp=sharing)
+|One step equations 2 | TBD | [One step equations part 2 assignment](https://docs.google.com/document/d/1TEExZpl4dO4NSCkZOWZ8DA5It9G5QI7FIUclDsHVrlU/edit?usp=sharing)
+|Two step equations 1 | TBD | [Two step equations part 1 assignment](https://docs.google.com/document/d/1MfVK7ft2E-CaMHD66-1XALYtPqPtjJl7UkxYQG_q0ss/edit?usp=sharing)
+|Solving Equations 1 | TBD | [Solving equations showing work 1 assignment](https://docs.google.com/document/d/1br-hknoKakSXrfD3QMTfnkleFVvFc9fEdseyOVV1CGo/edit?usp=sharing)
+|Solving Equations 2 | TBD | [Solving equations showing work 2 assignment](https://docs.google.com/document/d/1Q7SbYzRNIIUrfeID6-s2cZefKCUGz3un-eBDEkvtq3s/edit?usp=sharing)
+|Word problems | TBD | [Solving equations with words assignment](https://docs.google.com/document/d/11EDH9qlw9-FrOTiDa8teZ5IC2XQepCEkxD6k1RI9LeQ/edit?usp=sharing)
+|Checking solutions|TBD | [Check solutions assignment](https://docs.google.com/document/d/1-WrZBTnO9qt5Mb0HSnUeFIraSBZ1MxMIIeyvKZYeNNg/edit?usp=sharing)
+|Solving and checking|TBD| [Solving and checking solutions assignment](https://docs.google.com/document/d/1ljM8QFbedX3ZqQEfPdpgVw7wDNK8DmKqbq9NVulT4hY/edit?usp=sharing)
+|Algebra tactics| TBD |[Algebra tactics review worksheet](https://docs.google.com/document/d/1cQh67F-nnRg148IahyY4XH8k68JfRtkM8IbvnW79FLI/edit?usp=sharing)

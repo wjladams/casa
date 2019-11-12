@@ -9,4 +9,4 @@
 | none |[Scientist Biography Requirements](lang/scientistbiography.pdf)|
 |10/29| Ob-scertainer Lab (in class)|
 |11/12| Scientific Method Bubble Gum Lab |
-|N\A| [Scientific Method Quiz Review Exercises](SMQuizReveiwSheetNewton.pdf)
+|N\A| [Scientific Method Quiz Review Exercises](SMQuizReviewSheetNewton.pdf)

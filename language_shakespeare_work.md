@@ -13,3 +13,4 @@
 |11/08| Blackout Poem|
 |11/15| That was Then, This is Now - read Chapters 2, 3, and 4 - write four questions (grammatically correct) for each chapter|
 |11/19| Research Paper Guidelines - Brainstorming and Graphic Organizer for topic|
+|11/15| Blackout Poem, from any source|

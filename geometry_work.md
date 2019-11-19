@@ -46,9 +46,9 @@
 |2.3| 11/15 | 1,2,4,5,6,8,10-15, Time permitting 16,17,20,21
 |1.4|11/22 | 1-4, 6, 8, Time permitting 7,9-11
 |Postulates| 11/22 | Write all postulates from chapter 1 in your notebook
+|1.5|11/22 | 1,2,3, 6, Time permitting 4, 5, 6, 7, 9
 |Construction 1-2| 11/22 | 
 |Construction 1-3| 11/22 |
 |Construction 1-4| 11/22 | 
 |Experiment 1-4 | 11/22|
-|1.5|TBD | 1,2,3, 6, Time permitting 4, 5, 6, 7, 9
 |1.6| TBD| 1-5, 11, 15, 17, 20 Time permitting 7-9,13,14,16,22

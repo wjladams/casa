@@ -15,3 +15,4 @@
 |11/19| Research Paper Guidelines - Brainstorming and Graphic Organizer for topic|
 |11/15| Blackout Poem, from any source|
 |11/22| Research Paper - Seven sources|
+|12/05| Complete That was Then, This is Now pages 89-159 |

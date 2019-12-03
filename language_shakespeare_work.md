@@ -16,3 +16,5 @@
 |11/15| Blackout Poem, from any source|
 |11/22| Research Paper - Seven sources|
 |12/05| Complete That was Then, This is Now pages 89-159 |
+|12/05| Annotated Bibliography Internet Scavenger Hunt|
+|12/10| Three Annotated Bibliography Entries|

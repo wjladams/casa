@@ -19,3 +19,5 @@
 |11/15| The Outsiders - Questions from chapters 1 and 2|
 |11/15| Blackout Poem, from any source|
 |12/05| Complete The Outsiders pages 100-180|
+|12/12| Color coded essay organizer, Cats vs. Dogs|
+|12/18| Timeline - The Outsiders, Literary Project|

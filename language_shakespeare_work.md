@@ -18,3 +18,5 @@
 |12/05| Complete That was Then, This is Now pages 89-159 |
 |12/05| Annotated Bibliography Internet Scavenger Hunt|
 |12/10| Three Annotated Bibliography Entries|
+|12/18| Timeline - That Was Then, This is Now Literary Project|
+|12/18| Literary Project of Choice - That Was Then, This is Now|

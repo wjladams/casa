@@ -41,3 +41,4 @@
 |Checking solutions|On Quiz 12/6 | [Check solutions assignment](https://docs.google.com/document/d/1-WrZBTnO9qt5Mb0HSnUeFIraSBZ1MxMIIeyvKZYeNNg/edit?usp=sharing)
 |Solving and checking|On Quiz 12/6| [Solving and checking solutions assignment](https://docs.google.com/document/d/1ljM8QFbedX3ZqQEfPdpgVw7wDNK8DmKqbq9NVulT4hY/edit?usp=sharing)
 |Algebra tactics| TBD |[Algebra tactics review worksheet](https://docs.google.com/document/d/1cQh67F-nnRg148IahyY4XH8k68JfRtkM8IbvnW79FLI/edit?usp=sharing)
+|Quiz | 12/6/19 | [Quiz 12/6/19 Solutions](math/Algebra-Quiz-12-6-2019-Solutions.pdf)

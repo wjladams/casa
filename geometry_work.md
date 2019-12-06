@@ -56,3 +56,4 @@
 |4.1| 12/6 | 1,3,5,7,11,13,15,19
 |4.1| N/A | Know Theorems 4-1, 4-2, 4-3 and their proofs
 |4.2| 12/6 | 1, 2
+|Quiz| 12/6/19 | [Solutions guide](math/Geometry-Quiz-12-6-2019-Solutions.pdf)

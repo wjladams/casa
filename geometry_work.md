@@ -29,9 +29,6 @@
 |Test 1-Review| 10/10 | [Geometry Review sheet](math/geom-test1-review.pdf) and [Review sheet solutions](math/geom-test1-review-solutions.pdf)
 |Test 1 | 10/10 | [Download test](math/geom-test1.pdf)
 |Test 1 Corrections | 10/15 | Due Tuesday in class
-|Construction 1-2|TBD|Know how to bisect an angle
-|Construction 1-3|TBD| Know how to duplicate an angle
-|Experiment 1-3|TBD| Answer questions 1 and 2.
 |Biography | 10/16 | Directions step 1 from [biography](math/biography-project)
 |Biography | 10/16 | Directions steps 2,3 from [biography](math/biography-project)
 |AB 11-1 | 10/25 | 1-21, 37-47

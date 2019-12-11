@@ -54,4 +54,4 @@
 |4.1| N/A | Know Theorems 4-1, 4-2, 4-3 and their proofs
 |4.2| 12/6 | 1, 2
 |Quiz| 12/6/19 | [Solutions guide](math/Geometry-Quiz-12-6-2019-Solutions.pdf)
-|Test 2| 12/12/19| [Geometry Test 2 Review Sheet](https://docs.google.com/document/d/1N8XAdCIffDNORUlmQ5sR8x1jjITZ0IKE-dIMGtl0nLE/edit?usp=sharing): our second test is on Thursday December 12, 2019 
+|Test 2| 12/12/19| [Geometry Test 2 Review Sheet](https://docs.google.com/document/d/1N8XAdCIffDNORUlmQ5sR8x1jjITZ0IKE-dIMGtl0nLE/edit?usp=sharing) and [Solutions](math/Geometry-Test2-Review-Solutions.pdf):  our second test is on Thursday December 12, 2019 

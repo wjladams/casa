@@ -43,3 +43,4 @@
 |Algebra tactics| TBD |[Algebra tactics review worksheet](https://docs.google.com/document/d/1cQh67F-nnRg148IahyY4XH8k68JfRtkM8IbvnW79FLI/edit?usp=sharing)
 |Quiz | 12/6/19 | [Quiz 12/6/19 Solutions](math/Algebra-Quiz-12-6-2019-Solutions.pdf)
 |Test 2 Review| 12/12/19 | [Algebra test 2 review sheet](https://docs.google.com/document/d/1HXkjTdWUp7LUsYOssg4gITPu1pCXinuN-vJYIYjn920/edit?usp=sharing), and [Solutions](math/Algebra-Test2-Review-Solutions.pdf) our second test is on Thursday December 12, 2019 
+| Turtle Academy | N/A | Working on [turtleacademy.com](turtleacademy.com) fun time

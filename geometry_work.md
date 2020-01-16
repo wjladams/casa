@@ -58,3 +58,4 @@
 | Turtle Academy | N/A | Working on [turtleacademy.com](turtleacademy.com) fun time
 |AB 6-8 | 1/17/20 | 1-13, 37-49o, time permitting: 25-35o, 65-72
 |AB 6-9 | 1/17/20 | 1-21o
+|Inverse Operations| 1/17/20 | [Inverse Operations Worksheet](https://docs.google.com/document/d/1QNPmsbSLnEI6cd8QfnJRde7OSwZOBHy_oVIJUfIiuuc/edit?usp=sharing)

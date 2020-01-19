@@ -55,7 +55,4 @@
 |4.2| 12/6 | 1, 2
 |Quiz| 12/6/19 | [Solutions guide](math/Geometry-Quiz-12-6-2019-Solutions.pdf)
 |Test 2| 12/12/19| [Geometry Test 2 Review Sheet](https://docs.google.com/document/d/1N8XAdCIffDNORUlmQ5sR8x1jjITZ0IKE-dIMGtl0nLE/edit?usp=sharing) and [Solutions](math/Geometry-Test2-Review-Solutions.pdf):  our second test is on Thursday December 12, 2019 
-| Turtle Academy | N/A | Working on [turtleacademy.com](turtleacademy.com) fun time
-|AB 6-8 | 1/17/20 | 1-13, 37-49o, time permitting: 25-35o, 65-72
-|AB 6-9 | 1/17/20 | 1-21o
-|Inverse Operations| 1/17/20 | [Inverse Operations Worksheet](https://docs.google.com/document/d/1QNPmsbSLnEI6cd8QfnJRde7OSwZOBHy_oVIJUfIiuuc/edit?usp=sharing)
+|Moved | NA | Moved to [Spring 2020 Geometry Work](geometry_work2.md)

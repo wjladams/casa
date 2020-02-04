@@ -2,6 +2,7 @@
 
 |Section | Due | Problems / details |
 |--------|-----|--------------------|
+|Function worksheet| 2/7/20| [Function visual worksheet](https://docs.google.com/document/d/1lsWlqvBPN_QG2VvUXZOkDiOFJnHrRz6SLSHcsj6NtsY/edit?usp=sharing)
 |7-5 | 2/7/20 | 1-17o, 36-40, time permitting 25-37o, 46,47,52,53
 |7-4| 1/31/20 | 1-9o,11-19o, time permitting 21-29o
 |7-3| 1/31/20 | 1-11o, 21-27,31-35, time permitting 36-39

@@ -3,6 +3,10 @@
 
 |Section | Due | Problems / details |
 |--------|-----|--------------------|
+|6.3 | 2/7/20 | 1-7,9,11,12 time permitting 8,13,14,16
+|Construction 6-1 | 2/7/20 |
+|Experiment 6-2 | 2/7/20 |
+|Experiment 6-1 | 2/7/20 |
 |5.3 | 1/31/20 | 1-5, time permitting 6-9, 12
 |5.2 | 1/31/20 | 1-6, 10, time permitting: 9,11,13,14,19-21
 |Construction 5-2 | 1/31/20 | pg 134

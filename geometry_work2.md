@@ -3,6 +3,7 @@
 
 |Section | Due | Problems / details |
 |--------|-----|--------------------|
+|Test 1| 2/11/20| [Test 1 Spring 2020](math/geom-test3.pdf) and [Test 1 Solution Guide](math/geom-test3-solutions.pdf)
 |6.3 | 2/7/20 | 1-7,9,11,12 time permitting 8,13,14,16
 |Construction 6-1 | 2/7/20 |
 |Experiment 6-2 | 2/7/20 |

@@ -2,6 +2,7 @@
 
 |Section | Due | Problems / details |
 |--------|-----|--------------------|
+|7-6 | 2/21/20 | 1-6,7-15o,21-29o,41-45o,50
 |Test 1| 2/11/20| [Test 1 Spring 2020](math/alg-test3.pdf) and [Test 1 Solution Guide](math/alg-test3-solutions.pdf)
 |Function worksheet| 2/7/20| [Function visual worksheet](https://docs.google.com/document/d/1lsWlqvBPN_QG2VvUXZOkDiOFJnHrRz6SLSHcsj6NtsY/edit?usp=sharing)
 |7-5 | 2/7/20 | 1-17o, 36-40, time permitting 25-37o, 46,47,52,53

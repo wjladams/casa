@@ -22,3 +22,4 @@
 |12/12| Color coded essay organizer, Cats vs. Dogs|
 |12/18| Timeline - The Outsiders, Literary Project|
 |2/25| Essay: Cats vs Dogs as Pets, First draft due.  Typed, double spaced, New Times Roman 12pt.|
+|2/21| Three Ring Binder Checks (completeness and Organization) This is a test score!|

@@ -20,3 +20,5 @@
 |12/10| Three Annotated Bibliography Entries|
 |12/18| Timeline - That Was Then, This is Now Literary Project|
 |12/18| Literary Project of Choice - That Was Then, This is Now|
+|2/20| Research Paper (blue book) all work through (and including) 'Paraphrased Statements vs. Direct Quotes'|
+|2/21| Three Ring Binder Checks (completeness and Organization) This is a test score!|

@@ -21,3 +21,4 @@
 |12/05| Complete The Outsiders pages 100-180|
 |12/12| Color coded essay organizer, Cats vs. Dogs|
 |12/18| Timeline - The Outsiders, Literary Project|
+|2/25| Essay: Cats vs Dogs as Pets, First draft due.  Typed, double spaced, New Times Roman 12pt.|

@@ -3,6 +3,7 @@
 
 |Section | Due | Problems / details |
 |--------|-----|--------------------|
+|7.2 | 2/21/20 | 1-4,7,8,10,11,14    time permitting: 9,11,13
 |7.1 | 2/21/20 | 1-5,7, time permitting 6,8,9
 |Experiment 7-1|2/21/20| page 179
 |Test 1| 2/11/20| [Test 1 Spring 2020](math/geom-test3.pdf) and [Test 1 Solution Guide](math/geom-test3-solutions.pdf)

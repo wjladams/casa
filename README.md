@@ -11,6 +11,7 @@
     * [Chaucer group](humanities_chaucer_work)
     * [Shakespeare group](humanities_shakespeare_work)
 * Classwork list for Science
+    * [Science Resources List](science_resources)
     * [Einstein group](science_einstein_work)
     * [Newton group](science_newton_work)
     * [Make-up Work for Missed Labs](science-make-up)

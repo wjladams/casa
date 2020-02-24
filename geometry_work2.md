@@ -3,6 +3,9 @@
 
 |Section | Due | Problems / details |
 |--------|-----|--------------------|
+|Experiment 8-1| 2/28/20| page 216
+|8.1 | 2/28/20 | 1-5,7 time permitting: 8
+|7.3 | 2/28/20 | 1,2,3,5 time permitting: 4,6,7,9
 |7.2 | 2/21/20 | 1-4,7,8,10,11,14    time permitting: 9,11,13
 |7.1 | 2/21/20 | 1-5,7, time permitting 6,8,9
 |Experiment 7-1|2/21/20| page 179

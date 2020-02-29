@@ -2,6 +2,8 @@
 
 |Section | Due | Problems / details |
 |--------|-----|--------------------|
+|9-2 | 3/6/20 | 1-29o, 63-71o (For each problem write the solution in interval notation as well as graphically)
+|9-1 | 3/6/20 | 1-29o, 41-47o, 55-57|
 |7.8 | 2/28/20 | 1-3, 9-13, 21-24, 36
 |Lines worksheet| 2/28/20 | [Parallel and Perpendicular Lines Worksheet](https://docs.google.com/document/d/1gaYCyGXcVwFPGz8qv19cPyjOAXfkUiGl1xAZUeLFKD0/edit?usp=sharing)
 |7-7 | 2/28/20 | 1-17o, 23-25, 31-41o,47-53o,58,61

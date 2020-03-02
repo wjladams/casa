@@ -3,6 +3,8 @@
 
 |Section | Due | Problems / details |
 |--------|-----|--------------------|
+|8-2| 3/2/20 | 1-6, 9-12, time permitting 13,14,16
+|Experiment 8-2 Modified| 3/6/20 | [My version of experiment 8-2 worksheet](https://docs.google.com/document/d/1OJdMUD-Lp3_mPud57kvjJVXGDlW2H_X0TwJZS9PE_vQ/edit?usp=sharing)
 |Experiment 8-1| 2/28/20| page 216
 |8.1 | 2/28/20 | 1-5,7 time permitting: 8
 |7.3 | 2/28/20 | 1,2,3,5 time permitting: 4,6,7,9

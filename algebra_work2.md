@@ -2,6 +2,7 @@
 
 |Section | Due | Problems / details |
 |--------|-----|--------------------|
+|Test 2 Review | 3/20 | [Review Sheet For Test 2](https://paper.dropbox.com/doc/Algebra-Spring-2020-Test-2-Review--AvxZaQ2oYgg1juYdlj4SSwOIAQ-6jx90YjsqrdmkVGqaJZCU)
 |9-5| 3/13/20| 1-9o, 17-27o,31-39o,47-53o
 |9-3 | 3/6/20 | 1-12, 13-27o,41-51o,57-63o
 |9-2 | 3/6/20 | 1-29o, 63-71o (For each problem write the solution in interval notation as well as graphically)

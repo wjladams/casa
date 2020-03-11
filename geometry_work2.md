@@ -3,6 +3,7 @@
 
 |Section | Due | Problems / details |
 |--------|-----|--------------------|
+|Test 2 | 3/11/20 | [Test 2 Geometry](https://docs.google.com/document/d/182JQNfMdFQ8HOZ-u1yvaP6cN2Q29y0ZQblfQQuqEN6Q/edit?usp=sharing) and [Test 2 Solution Guide](math/GeometryTest2Solutions.pdf)
 |Test 2 Review| 3/13/20| Write all theorems from chapters 7 and 8 in your notebook. Write all congruence rules in your notebook with examples for each.  Finally review the problems from chapters 7 and 8.
 |8-5| 3/6/20 | 1,2,4,6,7,9,13,18 time permitting: 15,21,22
 |8-4| 3/6/20 | 1,3,4,5,7,8,11  time permitting: 6,10,11,13

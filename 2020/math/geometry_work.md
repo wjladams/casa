@@ -1,4 +1,4 @@
-# Algebra Classwork List
+# Geometry Classwork List
 
 |Assignment | Due | Problems / details |
 |-----------|-----|--------------------|

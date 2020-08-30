@@ -4,5 +4,6 @@
   * [Algebra Group](math/algebra_work)
   * [Geometry Group](geometry_work)
   * [Math resources](math/resources)
+
 # Projects
 * [Math Project Ideas](math/project_ideas.md)

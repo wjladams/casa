@@ -9,4 +9,6 @@
 |Negative numbers| 9/18/2020 | [Negative Number Exercises](https://docs.google.com/document/d/1NxbFKaTzMugZuLuh_2_taqPBs3jO_bojAQH6ralrHPA/edit?usp=sharing)
 |1-4 | 9/18/2020 | 1-15o, time permitting 17, 23, 25
 |1-5 | 9/18/2020 | 1-15o time permitting 19-22
-|1-6 | 9/18/2020 | 1-19 time permitting 41-47, 66-69
+|1-6 | TBD | 1-19 time permitting 41-47, 66-69
+|Writing math | 9/25/2020 | [Writing up math problems](https://docs.google.com/document/d/1WYWQXHy9xYz0OUAtWMa-5eTmRhXOpDDCkai-MrscKd0/edit?usp=sharing)
+|Tessellations | 9/25/2020 | [Tessellations](https://docs.google.com/document/d/1l6g3_WWPxgOP-ggl2ReQB69R2gYpoIu2Rqoc06YMD3k/edit?usp=sharing)

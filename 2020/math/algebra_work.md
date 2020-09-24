@@ -12,3 +12,4 @@
 |1-6 | TBD | 1-19 time permitting 41-47, 66-69
 |Writing math | 9/25/2020 | [Writing up math problems](https://docs.google.com/document/d/1WYWQXHy9xYz0OUAtWMa-5eTmRhXOpDDCkai-MrscKd0/edit?usp=sharing)
 |Tessellations | 9/25/2020 | [Tessellations](https://docs.google.com/document/d/1l6g3_WWPxgOP-ggl2ReQB69R2gYpoIu2Rqoc06YMD3k/edit?usp=sharing)
+|4-1| 9/25/2020 | 11-15, 31-36, 41-46, 51-555, 81-86, 116-119

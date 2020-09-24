@@ -12,4 +12,4 @@
 |Writing math | 9/25/2020 | [Writing up math problems](https://docs.google.com/document/d/1WYWQXHy9xYz0OUAtWMa-5eTmRhXOpDDCkai-MrscKd0/edit?usp=sharing)
 |Tessellations | 9/25/2020 | [Tessellations](https://docs.google.com/document/d/1l6g3_WWPxgOP-ggl2ReQB69R2gYpoIu2Rqoc06YMD3k/edit?usp=sharing)
 |Experiment 1-2 pg. 12|TBD| Answer each of the 1,2, a-e, 1-2, a-e questions on that page.
-|1.3 pg. 22|TBD|1-8 and time permitting 9-13
+|1.3 pg. 22|9/25/2020|1-8 and time permitting 9-13

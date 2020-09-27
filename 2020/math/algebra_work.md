@@ -13,3 +13,7 @@
 |Writing math | 9/25/2020 | [Writing up math problems](https://docs.google.com/document/d/1WYWQXHy9xYz0OUAtWMa-5eTmRhXOpDDCkai-MrscKd0/edit?usp=sharing)
 |Tessellations | 9/25/2020 | [Tessellations](https://docs.google.com/document/d/1l6g3_WWPxgOP-ggl2ReQB69R2gYpoIu2Rqoc06YMD3k/edit?usp=sharing)
 |4-1| 9/25/2020 | 11-15, 31-36, 41-46, 51-55, 81-86, 116-119
+|Game of Life| 10/2/2020| [Game of Life exercises](https://docs.google.com/document/d/1mMGr6HglQcq7N7yDCDPmUK6nzq2it2H7JsiPSIZgSFI/edit?usp=sharing)
+|Great Math Mystery| TBD | [Worksheet on "The Great Math Mystery"](https://docs.google.com/document/d/1MYjovzS04UY-p52XPhUJqdLYsfGuUIAws4aahbFPntk/edit?usp=sharing)
+|4-4| TBD | 1-12, 51-57
+|4-3| TBD | 1-10, 36-41, 61-65

@@ -1,0 +1,54 @@
+<html>
+<body>
+<!-- <h1>Random Dots</h1> -->
+<canvas id="canvas"></canvas>
+</body>
+<script>
+function drawTriangle1(context, x, y, length, color) {
+  context.fillStyle = color
+  var path = new Path2D();
+  path.moveTo(x, y);
+  path.lineTo(x+length, y);
+  path.lineTo(x+length/2, y+length*Math.sin(Math.PI/3))
+  path.lineTo(x,y);
+  context.fill(path);
+  context.stroke(path);
+}
+function drawTriangle2(context, x, y, length, color) {
+  context.fillStyle = color
+  var path = new Path2D();
+  path.moveTo(x, y);
+  path.lineTo(x-length/2, y+length*Math.sin(Math.PI/3));
+  path.lineTo(x+length/2, y+length*Math.sin(Math.PI/3))
+  path.lineTo(x,y);
+  context.fill(path);
+  context.stroke(path);
+}
+</script>
+<script>
+  var width=800
+  var height=1000
+  var nDots = 2500
+  var triangleColor = "black";
+  var bgColor = "white";
+  var triangleLength = 8;
+  var nRows = width / triangleLength;
+  var nCols = height / triangleLength;
+  var canvas = document.getElementById("canvas");
+  canvas.width = width
+  canvas.height = height
+  var context = canvas.getContext("2d");
+  for(var row=0; row < nRows; row++) {
+    for(var col=0; col < nCols; col++) {
+      var x = row * triangleLength;
+      var y = col * triangleLength;
+      var color;
+      if (((row + col) % 2) == 0) {
+        drawTriangle1(context, x, y, triangleLength, triangleColor);
+      } else {
+        //drawTriangle2(context, x, y, triangleLength, bgColor);
+      }
+    }
+  }
+</script>
+</html>

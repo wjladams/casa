@@ -1,0 +1,25 @@
+<html>
+<body>
+<!-- <h1>Random Dots</h1> -->
+<canvas id="canvas"></canvas>
+</body>
+<script>
+  var width=800
+  var height=1000
+  var nDots = 2500
+  var dotColor = "black";
+  var dotSize = 2;
+  var canvas = document.getElementById("canvas");
+  canvas.width = width
+  canvas.height = height
+  var context = canvas.getContext("2d");
+  context.fillStyle = dotColor
+  for (var i=0; i < nDots; i++) {
+    var x = Math.random() * width;
+    var y = Math.random() * height;
+    context.beginPath();
+    context.arc(x, y, dotSize, 0, 2 * Math.PI);
+    context.fill();
+  }
+</script>
+</html>

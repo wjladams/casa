@@ -1,0 +1,33 @@
+<html>
+<body>
+<!-- <h1>Random Dots</h1> -->
+<canvas id="canvas"></canvas>
+</body>
+<script>
+  var width=800
+  var height=1000
+  var nDots = 2500
+  var squareColor = "black";
+  var bgColor = "white";
+  var squareLength = 4;
+  var nRows = width / squareLength;
+  var nCols = height / squareLength;
+  var canvas = document.getElementById("canvas");
+  canvas.width = width
+  canvas.height = height
+  var context = canvas.getContext("2d");
+  for(var row=0; row < nRows; row++) {
+    for(var col=0; col < nCols; col++) {
+      var x = row * squareLength;
+      var y = col * squareLength;
+      if (((row + col) % 2) == 0) {
+        context.fillStyle = squareColor
+      } else {
+        context.fillStyle = bgColor
+      }
+      context.fillRect(x, y, squareLength, squareLength);
+      context.stroke();
+    }
+  }
+</script>
+</html>

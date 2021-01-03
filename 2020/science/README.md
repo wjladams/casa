@@ -15,5 +15,5 @@ This is the first semester Bill is taking over science, and we are moving back t
 * Deep dive into scientific method
   * Constants versus variables
   * Observation versus inference
-  * Marchmallow Lab
+  * Marshmallow Lab
   * Mythbusters episode, time permitting

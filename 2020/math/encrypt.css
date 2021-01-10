@@ -1,0 +1,7 @@
+html * {
+  margin-left: 10px
+}
+
+table th td {
+  border: 1 px;
+}

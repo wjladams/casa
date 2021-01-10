@@ -1,0 +1,180 @@
+<html>
+<header>
+  <title>Encryption</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="encrypt.css">
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</header>
+<body>
+<h1>Encrypt and/or Decrypt</h1>
+<div>
+<h3>Input your text</h3>
+<textarea id="input" rows="5" cols="50">
+</textarea>
+</div>
+<div>
+  <button class="btn btn-primary" onclick="encrypt();">Encrypt</button>
+  <button class="btn btn-primary" onclick="decrypt();">Decrypt</button>
+</div>
+<div>
+  <h3>Result</h3>
+  <div id="result">Nothing yet, please input your text above</div>
+</div>
+<hr>
+<div>
+  <table>
+    <tr><th>Algorithm</th><th>Parameter</th></tr>
+    <tr><td>
+      <select id="algorithm">
+        <option value="1">Rot13</option>
+        <option value="2">26 letters + parameter</option>
+        <option value="3">31 letters + parameter</option>
+        <option value="4">31 letters - parameter</option>
+        <option value="5">31 letters * parameter</option>
+      </select>
+    </td>
+    <td>
+      <input type="number" id="parameter" value="1" max="31" min="1"></input>
+    </td>
+  </tr>
+</table>
+<script>
+LETTERS26="abcdefghijklmnopqrstuvwxyz"
+LETTERS31="abcdefghijklmnopqrstuvwxyz .?,!"
+function encrypt() {
+  var algo = parseInt(document.getElementById("algorithm").value)
+  var param = parseInt(document.getElementById("parameter").value)
+  var result = "Unable to process"
+  //alert(algo)
+  switch (algo) {
+    case 1:
+      result=encryptAdd(LETTERS26, 13);
+      break;
+    case 2:
+      result=encryptAdd(LETTERS26, param);
+      break;
+    case 3:
+      result=encryptAdd(LETTERS31, param);
+      break;
+    case 4:
+      result=encryptAdd(LETTERS31, -param);
+      break;
+    case 5:
+      result=encryptMult(LETTERS31, param);
+      break;
+    default:
+      alert("Unknown algorithm "+algo);
+
+  }
+  //Insert our result back
+  document.getElementById("result").innerHTML = result
+}
+
+function decrypt() {
+  var algo = parseInt(document.getElementById("algorithm").value)
+  var param = parseInt(document.getElementById("parameter").value)
+  var result = "Unable to process"
+  //alert(algo)
+  switch (algo) {
+    case 1:
+      result=decryptAdd(LETTERS26, 13);
+      break;
+    case 2:
+      result=decryptAdd(LETTERS26, param);
+      break;
+    case 3:
+      result=decryptAdd(LETTERS31, param);
+      break;
+    case 4:
+      result=decryptAdd(LETTERS31, -param);
+      break;
+    case 5:
+      result=decryptMult(LETTERS31, param);
+      break;
+    default:
+      alert("Unknown algorithm "+algo);
+
+  }
+  //Insert our result back
+  document.getElementById("result").innerHTML = result
+}
+function decryptAdd(letters, param) {
+  return encryptAdd(letters, -param);
+}
+
+function decryptMult(letters, param) {
+  return encryptMult(letters, multiplicativeInverse(param, letters.length))
+}
+
+function encryptAdd(letters, param) {
+  var text = document.getElementById("input").value.toLowerCase()
+  var rval = ""
+  for (let i=0; i<text.length; i++) {
+    var c=text[i]
+    var encrypted = encryptAddLetter(letters, param, c)
+    rval += encrypted
+  }
+  return rval
+}
+
+function encryptMult(letters, param) {
+  var text = document.getElementById("input").value.toLowerCase()
+  var rval = ""
+  for (let i=0; i<text.length; i++) {
+    var c=text[i]
+    var encrypted = encryptMultLetter(letters, param, c)
+    rval += encrypted
+  }
+  return rval
+}
+
+function encryptAddLetter(letters, param, aLetter) {
+  var index = letters.indexOf(aLetter)
+  //Okay if the letter we want to encrypt is not in the list of letters, leave alone
+  if (index < 0) {
+    return aLetter
+  } else {
+    //We add the parameter to the index and mod by the number of letters
+    var newIndex = index + param
+    if (newIndex < 0) {
+      newIndex += letters.length
+    }
+    newIndex = newIndex % letters.length
+    return letters[newIndex]
+  }
+}
+
+function encryptMultLetter(letters, param, aLetter) {
+  var index = letters.indexOf(aLetter)
+  //Okay if the letter we want to encrypt is not in the list of letters, leave alone
+  if (index < 0) {
+    return aLetter
+  } else {
+    //We add the parameter to the index and mod by the number of letters
+    var newIndex = (index ) * param
+    if (newIndex < 0) {
+      newIndex += letters.length
+    }
+    newIndex = newIndex % letters.length
+    return letters[newIndex]
+  }
+}
+
+function multiplicativeInverse(numb, modulus) {
+  for (let i=1; i < modulus; i++) {
+    var product = numb * i
+    //Get the modulus
+    product = product % modulus
+    if (product == 1) {
+      //We have the inverse
+      return i
+    }
+  }
+  //If we make it here, we have no inverse
+  throw "Unable to find inverse of "+numb+" mod "+modulus
+}
+</script>
+</body>
+</html>

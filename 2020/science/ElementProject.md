@@ -5,7 +5,14 @@
 
 ## 3d model
 
-The details of this can be found in the [lab you needed to complete before making your model](https://github.com/wjladams/casa/blob/master/2020/science/Lab%203%20Neutrons%20and%20atomic%20model-2021Version.pdf)
+The details of this can be found in the [lab you needed to complete before making your model](https://github.com/wjladams/casa/blob/master/2020/science/Lab%203%20Neutrons%20and%20atomic%20model-2021Version.pdf).  The components that you need in the model are:
+
+1. Nucleus (labeled)
+2. Orbitals (labeled)
+3. Electrons (at least one labeled)
+4. Protons (at least one labeled)
+5. Neutrons (at least one labeled)
+6. The name of the element you modeled
 
 ## Presentation
 1. State of matter it normally is found in

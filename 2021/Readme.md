@@ -1,4 +1,4 @@
-# Casa Adolescent 
+# General Information
 ## Academic Year 2021-2022
 
 * [Classrom Schedule for 2021-2022 School Year](Schedule2021-V1.png)

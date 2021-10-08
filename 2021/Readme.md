@@ -7,4 +7,4 @@
   * [Math resources](math_resources)
 
 # Projects
-* [Math Project Ideas](math_project_ideas)
+* [Math Project Ideas](math_project_ideas.html)

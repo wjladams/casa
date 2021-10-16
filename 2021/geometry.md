@@ -17,3 +17,5 @@
 |1.2 pg. 11||1-4 and time permitting 5-8
 |Experiment 1-3 pgs 27-28| | parts 1 and 2
 |Construction 1-3 pg 26 | |
+|1.3 pg 22 | | 1-8 time permiting 9-13
+|Geometry handout| |  Section 1.5 of another geoemetry textbook to review proof ideas

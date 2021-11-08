@@ -16,3 +16,18 @@ Lesson/Discussion topics
 * Finding patterns in the world around us.  If math is the study and use of patterns, and if everything is mathematical then we should be able to find patterns everywhere in the world.
 * [Finding patterns exercises](https://docs.google.com/document/d/1jFKtXioBGcuLrV7nrccva9nHKl5koOddg0Mj1-VoQ58/edit?usp=sharing)
 * Time permitting introduce to fracts using [Xaos](https://xaos-project.github.io/)
+
+
+## Week 10
+### Tuesday
+* Integer bingo 1st half of class
+* Reviewing Pythagorean Theorem
+* Solving equations, using subtraction and division, both one step and 2 step
+* Did problems on:
+  * Solving multiple xs
+  * One step equations with division
+### Thursday
+* Inverse operations lesson, there are 2 main points to this lesson.  One is to simply know inverse operations.  However, the other is to help when solving equations, knowing which steps to do first.  The socks and shoes analogy.
+* Solve Equations Showing Work
+* Solve Equations Part 1
+* Challenge Equations

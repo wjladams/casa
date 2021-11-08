@@ -24,10 +24,10 @@ Lesson/Discussion topics
 * Reviewing Pythagorean Theorem
 * Solving equations, using subtraction and division, both one step and 2 step
 * Did problems on:
-  * Solving multiple xs
-  * One step equations with division
+  * [Solving multiple xs](https://docs.google.com/document/d/1Eephdxyn8o7HlEJ8VSBHPJiTNOQcWYzADzZz0RrsXLM/edit?usp=sharing)
+  * [One step equations with division](https://docs.google.com/document/d/1TEExZpl4dO4NSCkZOWZ8DA5It9G5QI7FIUclDsHVrlU/edit)
 ### Thursday
-* Inverse operations lesson, there are 2 main points to this lesson.  One is to simply know inverse operations.  However, the other is to help when solving equations, knowing which steps to do first.  The socks and shoes analogy.
-* Solve Equations Showing Work
-* Solve Equations Part 1
-* Challenge Equations
+* [Inverse operations lesson](https://docs.google.com/document/d/1QNPmsbSLnEI6cd8QfnJRde7OSwZOBHy_oVIJUfIiuuc/edit), there are 2 main points to this lesson.  One is to simply know inverse operations.  However, the other is to help when solving equations, knowing which steps to do first.  The socks and shoes analogy.
+* [Solve Equations Showing Work](https://docs.google.com/document/d/1br-hknoKakSXrfD3QMTfnkleFVvFc9fEdseyOVV1CGo/edit)
+* [Solve Equations Part 1](https://docs.google.com/document/d/1Q7SbYzRNIIUrfeID6-s2cZefKCUGz3un-eBDEkvtq3s/edit)
+* [Challenge Equations](https://docs.google.com/document/d/15CA_Jv6YJ1Esfok0YIJe4W8pUA2Xy2aB0M5_J96EZ0s/edit?usp=sharing)

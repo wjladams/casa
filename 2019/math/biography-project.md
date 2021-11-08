@@ -1,4 +1,4 @@
-# Biography Project Oct 2019
+# Biography Project
 In this project the student will pick a historical mathematician to present a biography on.
 The main component of the biography is a presentation.
 

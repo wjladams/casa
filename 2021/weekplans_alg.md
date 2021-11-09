@@ -31,3 +31,12 @@ Lesson/Discussion topics
 * [Solve Equations Showing Work](https://docs.google.com/document/d/1br-hknoKakSXrfD3QMTfnkleFVvFc9fEdseyOVV1CGo/edit)
 * [Solve Equations Part 1](https://docs.google.com/document/d/1Q7SbYzRNIIUrfeID6-s2cZefKCUGz3un-eBDEkvtq3s/edit)
 * [Challenge Equations](https://docs.google.com/document/d/15CA_Jv6YJ1Esfok0YIJe4W8pUA2Xy2aB0M5_J96EZ0s/edit?usp=sharing)
+
+## Week 11
+### Tuesday
+* Preparing for Biography reports
+* Researching mathematicians using [mathigon timeline](https://mathigon.org/timeline)
+* Making it through the first 3 steps of [Math Biography Project Steps](https://bamath.org/casa/2019/math/biography-project)
+
+### Thursday
+* No class, Veteran's Day

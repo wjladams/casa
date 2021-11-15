@@ -40,3 +40,13 @@ Lesson/Discussion topics
 
 ### Thursday
 * No class, Veteran's Day
+
+## Week 12
+### Tuesday
+* Making biography reports
+* Show how to make a presentation with google slides
+* Finish all steps of [Math Biography Project Steps](https://bamath.org/casa/2019/math/biography-project)
+
+### Thursday
+* Biography presentations
+* Integer bingo to review solving equations, pythagorean theorem, squares, cubes, roots, etc.

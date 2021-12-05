@@ -50,3 +50,13 @@ Lesson/Discussion topics
 ### Thursday
 * Biography presentations
 * Integer bingo to review solving equations, pythagorean theorem, squares, cubes, roots, etc.
+
+## Week 13
+### Tuesday
+* Integer Bingo to review solving multi-step equations, the pythagorean theorem, order of operations, cubes, squares, etc.
+* Section 1.6 of geometry textbook, leading to Theorems 1-5 and 1-6, namely the angles of a triangle.
+* Outlining how Theorems 1-3, 1-4, 1-5, and 1-6 inter-relate.
+* Problems 1-5, 11, 15, 17, 20 Time Permitting 7-9, 13, 14, 16, 22
+
+### Thursday
+* Continue working on section 1.6

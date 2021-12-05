@@ -50,3 +50,11 @@ Lesson/Discussion topics
 ### Thursday
 * Biography presentations
 * Integer bingo to review solving equations, pythagorean theorem, squares, cubes, roots, etc.
+
+## Week 13
+### Tuesday
+* Integer Bingo to review solving multi-step equations, the pythagorean theorem, order of operations, cubes, squares, etc.
+* [Work on solving and checking solutions assignment](https://docs.google.com/document/d/1ljM8QFbedX3ZqQEfPdpgVw7wDNK8DmKqbq9NVulT4hY/edit)
+
+### Thursday
+* Section 6-6 from textbook, problems 1-21o, 37-53o.  These are problems to review multi-step algebra solving.

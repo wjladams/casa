@@ -60,3 +60,13 @@ Lesson/Discussion topics
 
 ### Thursday
 * Continue working on section 1.6
+
+## Week 14
+### Tuesday
+* Take notes on Theorems 3-1, 3-2, 3-3
+* Lesson on section 3.1
+* Problems 3.1: 1-4, 7-9, 15, 17, Time Permitting 19, 20
+
+### Thursday
+* Lesson of section 4.1
+* Problems 4.1: 1-15o 19

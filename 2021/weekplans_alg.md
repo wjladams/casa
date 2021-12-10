@@ -1,6 +1,8 @@
 # Algebra week plans
 In this file, we have a week by week overview of what was covered.  The assignments are not directly linked here, since they are elsewhere.
 
+Note that the textbook is "A plus notes for beginning algebra" by Ron Yang
+
 ## Week 1
 ### Tuesday
 Lesson/Discussion topics
@@ -58,3 +60,12 @@ Lesson/Discussion topics
 
 ### Thursday
 * Section 6-6 from textbook, problems 1-21o, 37-53o.  These are problems to review multi-step algebra solving.
+
+## Week 14
+### Tuesday
+* Continue reviewing solving equations.
+* [Algebra Tactics II worksheet](https://docs.google.com/document/d/1h7USvoSMzBtGdqFjzhwYD1NlaXP8yjbUBwrTM_HRnBY/edit?usp=sharing)
+
+### Thursday
+* 6-8 1-13, 37-49o, 65-72, time permitting 25-35o
+* Gave some folks an introduction to trig and a very limited intro to [turtleacademy.com](turtleacademy.com)

@@ -69,3 +69,9 @@ Lesson/Discussion topics
 ### Thursday
 * 6-8 1-13, 37-49o, 65-72, time permitting 25-35o
 * Gave some folks an introduction to trig and a very limited intro to [turtleacademy.com](turtleacademy.com)
+
+## Week 15
+### Tuesday
+* Discussion of unsolvable equations and examples.  Using technology to see.
+Using GeoGebra to visualize.
+* [Review of Test 2 from 2019](https://docs.google.com/document/d/1HXkjTdWUp7LUsYOssg4gITPu1pCXinuN-vJYIYjn920/edit?usp=sharing)

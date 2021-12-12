@@ -27,6 +27,7 @@ Lesson/Discussion topics
   * One step equations with division
 * Took notes on Section 1.4 from textbook
 * Started 1.4 1-4, 6, 8, TP 7, 9-11
+
 ### Thursday
 * Inverse operations lesson, there are 2 main points to this lesson.  One is to simply know inverse operations.  However, the other is to help when solving equations, knowing which steps to do first.  The socks and shoes analogy.
 * Challenge Equations
@@ -70,3 +71,10 @@ Lesson/Discussion topics
 ### Thursday
 * Lesson of section 4.1
 * Problems 4.1: 1-15o 19
+
+## Week 15
+### Tuesday
+* Discussion of unsolvable equations and examples.  Using technology to see.
+Using GeoGebra to visualize.
+* Finishing 4.1
+* Section 4.2 problems 1,2

@@ -74,4 +74,5 @@ Lesson/Discussion topics
 ### Tuesday
 * Discussion of unsolvable equations and examples.  Using technology to see.
 Using GeoGebra to visualize.
+* [No solution/infinite solutions problem](https://paper.dropbox.com/doc/No-solution-infinite-number-or-one--BYABe2YXDbJrVhsubmiPS~z2AQ-xgcEh4vffFxoMB2rJyDiU)
 * [Review of Test 2 from 2019](https://docs.google.com/document/d/1HXkjTdWUp7LUsYOssg4gITPu1pCXinuN-vJYIYjn920/edit?usp=sharing)

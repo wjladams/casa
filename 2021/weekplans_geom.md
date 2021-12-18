@@ -16,6 +16,33 @@ Lesson/Discussion topics
 * [Finding patterns exercises](https://docs.google.com/document/d/1jFKtXioBGcuLrV7nrccva9nHKl5koOddg0Mj1-VoQ58/edit?usp=sharing)
 * Time permitting introduce to fracts using [Xaos](https://xaos-project.github.io/)
 
+## Week 2
+
+* [Book cipher lessons from 2020](https://docs.google.com/document/d/1s5dAe8syztFvUHtvviae9B-AGhp1qBnq9PiJ9Q7VV3U/edit#heading=h.bsmw8uh0sly6)
+* [Number type lessons](https://docs.google.com/document/d/1-ozoC4NtGDBL0-3st4QlNvHv716J5ykc2Q-Hc5dqLtI/edit)
+* Integer Bingo
+
+## Week 3
+* Great math mystery video
+* Find examples of math being created and/or discovered
+* [Negative number arithmetic](https://docs.google.com/document/d/1NxbFKaTzMugZuLuh_2_taqPBs3jO_bojAQH6ralrHPA/edit)
+
+## Week 4
+* Write Euclid's 5 postulates
+* Axioms from section 1.1 in your notebook
+* Definitions from section 1.1 in your notebook
+* Experiment 1-1
+
+## Week 5
+### Tuesday
+* Experiment 1-1
+* Problems 1.1 1-4 time permitting 5-7
+
+### Thursday
+* Notes on section 1.2
+* Problems 1.2 1-4 time permitting 5-8
+
+## Week 6
 
 ## Week 10
 ### Tuesday

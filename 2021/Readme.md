@@ -10,8 +10,8 @@
 
 # Fall 2021
 * Mathematics
-  * [Algebra Assignments Fall 2021](algebra) and [Weekly Plan](weekplans_alg)
-  * [Geometry Assignments Fall 2021](geometry) and [Weekly Plan](weekplans_geom)
+  * [Algebra Assignments Fall 2021](algebra)
+  * [Geometry Assignments Fall 2021](geometry)
   * [Math resources](math_resources)
 
 # Projects

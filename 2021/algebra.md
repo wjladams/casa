@@ -28,7 +28,7 @@
 |Multiple xs | 11/1/21 | [Multiple xs exercises](https://docs.google.com/document/d/1Eephdxyn8o7HlEJ8VSBHPJiTNOQcWYzADzZz0RrsXLM/edit?usp=sharing)
 |One step equations with division | 11/22 | [One step equations part 2 assignment](https://docs.google.com/document/d/1TEExZpl4dO4NSCkZOWZ8DA5It9G5QI7FIUclDsHVrlU/edit?usp=sharing)
 |Inverse functions| 11/1/21| [Assignment](https://docs.google.com/document/d/1QNPmsbSLnEI6cd8QfnJRde7OSwZOBHy_oVIJUfIiuuc/edit)
-|Biography Presentation| 11/16/21 | Present [biography](../2019/math/biography-project)
+|Biography Presentation| 11/16/21 | Present [biography](../2019/math/biography-project)9
 |Two step equations 1 | 11/29/21 | [Two step equations part 1 assignment](https://docs.google.com/document/d/1MfVK7ft2E-CaMHD66-1XALYtPqPtjJl7UkxYQG_q0ss/edit?usp=sharing)
 |Checking solutions|On Quiz 11/29/21 | [Check solutions assignment](https://docs.google.com/document/d/1-WrZBTnO9qt5Mb0HSnUeFIraSBZ1MxMIIeyvKZYeNNg/edit?usp=sharing)
 |Solving and checking|On Quiz 11/29/21| [Solving and checking solutions assignment](https://docs.google.com/document/d/1ljM8QFbedX3ZqQEfPdpgVw7wDNK8DmKqbq9NVulT4hY/edit?usp=sharing)

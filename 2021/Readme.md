@@ -5,6 +5,7 @@
 * [Student Council Steps](../2020/Council)
 
 # Spring 2022
+* [Spring 2022 General Goals](spring2022_plan)
 * [Algebra Spring 2022](algebra2)
 * [Geometry Spring 2022](geometry2)
 

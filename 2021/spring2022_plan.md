@@ -2,15 +2,16 @@
 
 ## Algebra
 
+* Chapter 7 Functions and Graphs
 * Chapter 8, Factoring and Solving Equations
 * Chapter 12, Quadratic equation and completing the square
-* Chapter 9, Inequalities and absolute value
 * --- End First 9 weeks
-* Chapter 7 Functions and Graphs
+* Chapter 9, Inequalities and absolute value
 * Chapter 10 Systems of equations
 
 ## Geometry
 
+* Review functions and graphs
 * Chapter 5, Right triangles
 * Chapter 6, Polygons
 * Chapter 7, Congruent Triangles

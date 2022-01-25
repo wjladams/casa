@@ -14,6 +14,6 @@
 |Functions 3| 1/21/22 |[Real world functions assignment](https://docs.google.com/document/d/1K8hQ525MRsSAlx447TbUO3trAKnwih7N4o262u6W0TY/edit?usp=sharing)
 |Domain/Range| 1/21/22 | 7-4 Problems 31-45, answer if the graph is a function, and what is the domain and Range
 |7-6| 1/21/22 | 1-6,7-15o,21-29o,41-45o,50
-|Hitomezashi| 1/28/22 | Make some Hitomezashi stitch patterns in your book
+|[Hitomezashi](https://youtu.be/JbfhzlMk2eY)| 1/28/22 | Make some Hitomezashi stitch patterns. [Dot grid paper](dotted_paper.pdf) and [isogrid paper](isometric_grid_paper_double_sided.pdf) and a [simple ranodm number generator](random.html)
 |7.7| 1/28/22 | 1-17o, 23-25,31-41o,47-53o time permiting 58, 61
 |7.8| 1/28/22 | 1-3,9-13,21-24,36, time permitting 41,42

@@ -17,3 +17,4 @@
 
 # Projects
 * [Math Project Ideas](math_project_ideas)
+* [A random number generator](random.html)

@@ -1,0 +1,26 @@
+<html>
+<body>
+<table>
+  <tr><th>Number of digits:</th><td><input id="size" type="number" width="3" value="5" onchange="update();">
+  <tr><th>Probability of 1:</th><td><input id="prob" type="number" value="0.5" onchange="update();">
+  <tr><th colspan="2"><input type="button" value="Generate" onclick="update();">
+  <tr><th>Result:</th><td colspan="2" id="output" ></td>
+</body>
+<script>
+function update() {
+  var size = Number(document.getElementById("size").value)
+  var prob = Number(document.getElementById("prob").value)
+  rval = ""
+  for(let i=0; i < size; i++) {
+    let p = Math.random();
+    if (p < prob) {
+      rval += "1"
+    } else {
+      rval += "0"
+    }
+  }
+  document.getElementById("output").innerHTML = rval;
+  //alert(rval)
+}
+</script>
+</html>

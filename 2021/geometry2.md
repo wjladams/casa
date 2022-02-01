@@ -16,4 +16,5 @@
 |Domain/Range| 1/21/22 | 7-4 Problems 31-45, answer if the graph is a function, and what is the domain and Range
 |[Hitomezashi](https://youtu.be/JbfhzlMk2eY)| 1/28/22 | Make some Hitomezashi stitch patterns. [Dot grid paper](dotted_paper.pdf) and [isogrid paper](isometric_grid_paper_double_sided.pdf) and a [simple ranodm number generator](random.html)
 |7.7| 1/28/22 | 1-17o, 23-25,31-41o,47-53o time permiting 58, 61
-|7.8| 1/28/22 | 1-3,9-13,21-24,36, time permitting 41,42
+|Parallel Exp.| 2/4/22| [Parallel and Perpendicular Experiment Assignment](https://docs.google.com/document/d/1PAqIoReSwV5hif4GwZ26P2xUSIsWXEdO3_I2bWOgkdk/edit?usp=sharing)
+|7.8| 2/4/22 | 1-3,9-13,21-24,36, time permitting 41,42

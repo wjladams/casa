@@ -20,3 +20,4 @@
 |7.8| 2/4/22 | 1-3,9-13,21-24,36, time permitting 41,42
 |Test 1| 2/3/22 | [Test 1](math/sptest1.pdf) and [Solution Guide](math/sptest1-solns.pdf)
 |Correct Test 1| 2/11/22| Correct your test in your math notebook
+|Distributive Law| 2/11/22 | [Distributive Law and Factoring worksheet](https://docs.google.com/document/d/153BT99aFABONnnM9SZPM7HOztAIdn6lDZhWUVKF3bcA/edit?usp=sharing)

@@ -21,3 +21,9 @@
 |Test 1| 2/3/22 | [Test 1](math/sptest1.pdf) and [Solution Guide](math/sptest1-solns.pdf)
 |Correct Test 1| 2/11/22| Correct your test in your math notebook
 |Distributive Law| 2/11/22 | [Distributive Law and Factoring worksheet](https://docs.google.com/document/d/153BT99aFABONnnM9SZPM7HOztAIdn6lDZhWUVKF3bcA/edit?usp=sharing)
+
+
+|Date Assigned| Date Due | Assignment |
+|-------------|----------|-------------|
+|Mon 2/14/22 | Fri 2/18 | Experiment 5.1 parts 1,2,3 from chapter 5 |
+| | | Read and copy the Lemma on page 125 and Theorem page 126|

@@ -21,3 +21,8 @@
 |Test 1| 2/3/22 | [Test 1](math/sptest1.pdf) and [Solution Guide](math/sptest1-solns.pdf)
 |Correct Test 1| 2/11/22| Correct your test in your math notebook
 |Distributive Law| 2/11/22 | [Distributive Law and Factoring worksheet](https://docs.google.com/document/d/153BT99aFABONnnM9SZPM7HOztAIdn6lDZhWUVKF3bcA/edit?usp=sharing)
+
+
+|Date Assigned| Date Due | Assignment |
+|-------------|----------|-------------|
+|Mon 2/14/22 | Fri 2/18/22 | [Factoring Problems 1](https://docs.google.com/document/d/1rav1vkA6Y3Ccy34k0csDifrZt-0ZF8ak8CPeqTKuTdw/edit?usp=sharing) |

@@ -25,4 +25,6 @@
 
 |Date Assigned| Date Due | Assignment |
 |-------------|----------|-------------|
-|Mon 2/14/22 | Fri 2/18/22 | [Factoring Problems 1](https://docs.google.com/document/d/1rav1vkA6Y3Ccy34k0csDifrZt-0ZF8ak8CPeqTKuTdw/edit?usp=sharing) |
+|Mon 2/14/22 | Fri 2/18/22 | [Factoring Lesson 1](https://docs.google.com/document/d/1rav1vkA6Y3Ccy34k0csDifrZt-0ZF8ak8CPeqTKuTdw/edit?usp=sharing) |
+|Wed 2/16/22 | Fri 2/18/22 | [Plotting Functions 1](https://docs.google.com/document/d/1Jb54h8ph2aK3AkDW36tW5Q7R9V2f3gUIlh_inavORIU/edit?usp=sharing)
+|Fri 2/16/22 | Fri 2/18/22 | [Factoring Lesson 2](https://docs.google.com/document/d/1nfONk2FGeLGyCa2mdu5clz-kq4xMm9PojL6h3kI5IE0/edit?usp=sharing)

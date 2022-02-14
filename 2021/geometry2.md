@@ -25,5 +25,6 @@
 
 |Date Assigned| Date Due | Assignment |
 |-------------|----------|-------------|
-|Mon 2/14/22 | Fri 2/18 | Experiment 5.1 parts 1,2,3 from chapter 5 |
+|Mon 2/14/22 | Fri 2/18/22 | Experiment 5.1 parts 1,2,3 from chapter 5 |
 | | | Read and copy the Lemma on page 125 and Theorem page 126|
+|Wed 2/16/22 | Fri 2/18/22 | 5.1 1,3-6 time permitting 2,9,13,14 

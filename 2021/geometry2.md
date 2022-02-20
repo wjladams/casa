@@ -28,3 +28,5 @@
 |Mon 2/14/22 | Fri 2/18/22 | Experiment 5.1 parts 1,2,3 from chapter 5 |
 | | | Read and copy the Lemma on page 125 and Theorem page 126|
 |Wed 2/16/22 | Fri 2/18/22 | 5.1 1,3-6 time permitting 2,9,13,14 
+|Wed 2/23/22 | Fri 2/25/22 | 5.2 1-6,10,11,13,14 time permitting 19-21
+|Fri 2/25/22 | Fri 2/25/22 | 5.3 1-8 TP 9, 12

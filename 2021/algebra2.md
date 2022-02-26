@@ -25,7 +25,13 @@
 
 |Date Assigned| Date Due | Assignment |
 |-------------|----------|-------------|
+|Week 7
 |Mon 2/14/22 | Fri 2/18/22 | [Factoring Lesson 1](https://docs.google.com/document/d/1rav1vkA6Y3Ccy34k0csDifrZt-0ZF8ak8CPeqTKuTdw/edit?usp=sharing) |
 |Wed 2/16/22 | Fri 2/18/22 | [Plotting Functions 1](https://docs.google.com/document/d/1Jb54h8ph2aK3AkDW36tW5Q7R9V2f3gUIlh_inavORIU/edit?usp=sharing)
+|Week 8
 |Wed 2/23/22 | Fri 2/25/22 | [Factoring Lesson 2](https://docs.google.com/document/d/1nfONk2FGeLGyCa2mdu5clz-kq4xMm9PojL6h3kI5IE0/edit?usp=sharing)
 |Fri 2/25/22 | Fri 2/25/22 | [Factoring Lesson 3](https://docs.google.com/document/d/1vr7zyWIoInzh048ay37gblwz_58ru7eLPNCHoUP56UY/edit?usp=sharing)
+|Week 9
+|Mon 2/28/22 | Fri 3/4/22 | Meanglish assignment for dytopian future
+|Wed 3/2/22 | Fri 3/4/22 | [Factoring Advanced](https://docs.google.com/document/d/1utgmy2wRSyIguTL018o6DtZY9mtmmzdomWTTNkRt-r8/edit?usp=sharing)
+|Fri 3/4/22 | Fri 3/4/22 | [Factoring Formulas](https://docs.google.com/document/d/1piiAOstKY5LG8yM7sW8ZwFb53xm1TVWDM47-EEjjP28/edit?usp=sharing)

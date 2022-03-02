@@ -30,3 +30,5 @@
 |Wed 2/16/22 | Fri 2/18/22 | 5.1 1,3-6 time permitting 2,9,13,14 
 |Wed 2/23/22 | Fri 2/25/22 | 5.2 1-6,10,11,13,14 time permitting 19-21
 |Fri 2/25/22 | Fri 2/25/22 | 5.3 1-8 TP 9, 12
+|Mon 2/28/22 | Fri 3/4/22 | Ch 5 from Painless geometry, all assignments
+| | | Or 7.1 1-7all and 7.2 1-4,7,8,10,11,14 and 7.3 1-4 from geometry textbook

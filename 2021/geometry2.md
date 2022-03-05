@@ -25,10 +25,16 @@
 
 |Date Assigned| Date Due | Assignment |
 |-------------|----------|-------------|
+|**Week 7** (2/14-2/18)
 |Mon 2/14/22 | Fri 2/18/22 | Experiment 5.1 parts 1,2,3 from chapter 5 |
 | | | Read and copy the Lemma on page 125 and Theorem page 126|
 |Wed 2/16/22 | Fri 2/18/22 | 5.1 1,3-6 time permitting 2,9,13,14 
+|**Week 8** (2/21-2/25)
 |Wed 2/23/22 | Fri 2/25/22 | 5.2 1-6,10,11,13,14 time permitting 19-21
 |Fri 2/25/22 | Fri 2/25/22 | 5.3 1-8 TP 9, 12
+|**Week 9** (2/28-3/4)
 |Mon 2/28/22 | Fri 3/4/22 | Ch 5 from Painless geometry, all assignments
 | | | Or 7.1 1-7all and 7.2 1-4,7,8,10,11,14 and 7.3 1-4 from geometry textbook
+|**Week 10** (3/7-3/11)
+|Mon 3/7/22 | Fri 3/11/22 | Meanglish Assignment
+|Wed 3/9/22 | Frid 3/11/22 | Chapter 6 Painless geometry, all assignments and experiments

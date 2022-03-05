@@ -31,11 +31,11 @@
 |Week 8
 |Wed 2/23/22 | Fri 2/25/22 | [Factoring Lesson 2](https://docs.google.com/document/d/1nfONk2FGeLGyCa2mdu5clz-kq4xMm9PojL6h3kI5IE0/edit?usp=sharing)
 |Fri 2/25/22 | Fri 2/25/22 | [Factoring Lesson 3](https://docs.google.com/document/d/1vr7zyWIoInzh048ay37gblwz_58ru7eLPNCHoUP56UY/edit?usp=sharing)
-|Week 9
+|**Week 9** (2/28-3/4)
 |Mon 2/28/22 | Fri 3/4/22 | [Factoring Advanced](https://docs.google.com/document/d/1utgmy2wRSyIguTL018o6DtZY9mtmmzdomWTTNkRt-r8/edit?usp=sharing)
 |Wed 3/2/22 | Fri 3/4/22 | [Factoring Formulas](https://docs.google.com/document/d/1piiAOstKY5LG8yM7sW8ZwFb53xm1TVWDM47-EEjjP28/edit?usp=sharing)
 |Fri 3/4/22 | Fri 3/4/22 | [Factoring Review](https://docs.google.com/document/d/1dtNGKyEKwcodUyDgzPqTsoI204LW2d3nXnShy0IcoFw/edit?usp=sharing)
-| Week 10
+| **Week 10** (3/7 - 3/11)
 | Mon 3/7/22 | 3/11/22 | Meanglish Assignment
 | Wed 3/9/22 | 3/11/22 | [Solving perfect squares](https://docs.google.com/document/d/1Mc4tV-64oa9G7GqdiEJk7QdB-WW6sSN6V7y7q-HvkF8/edit?usp=sharing)
 | Fri 3/11/22| 3/11/22 | [Completing the square 1](https://docs.google.com/document/d/10rpITTg2BOT4FlorFZthMCNG1WZY7fGdTp_mxBIRkf8/edit?usp=sharing)

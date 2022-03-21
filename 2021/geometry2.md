@@ -37,4 +37,7 @@
 | | | Or 7.1 1-7all and 7.2 1-4,7,8,10,11,14 and 7.3 1-4 from geometry textbook
 |**Week 10** (3/7-3/11)
 |Mon 3/7/22 | Fri 3/11/22 | Meanglish Assignment
-|Wed 3/9/22 | Frid 3/11/22 | Chapter 6 Painless geometry, all assignments and experiments
+|Mon 3/9/22 | Fri 3/11/22 | Meanglish Assignment Phase 2
+|Fri 3/11/22 | Fri 3/11/22 | Bingo and wordle fun
+|**Week 11** (3/21-3/25)
+|Mon 3/21/22 | Fri 3/25/22 | Chapter 6 Painless geometry, all assignments and experiments

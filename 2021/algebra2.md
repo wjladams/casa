@@ -37,5 +37,8 @@
 |Fri 3/4/22 | Fri 3/4/22 | [Factoring Review](https://docs.google.com/document/d/1dtNGKyEKwcodUyDgzPqTsoI204LW2d3nXnShy0IcoFw/edit?usp=sharing)
 | **Week 10** (3/7 - 3/11)
 | Mon 3/7/22 | 3/11/22 | Meanglish Assignment
-| Wed 3/9/22 | 3/11/22 | [Solving perfect squares](https://docs.google.com/document/d/1Mc4tV-64oa9G7GqdiEJk7QdB-WW6sSN6V7y7q-HvkF8/edit?usp=sharing)
-| Fri 3/11/22| 3/11/22 | [Completing the square 1](https://docs.google.com/document/d/10rpITTg2BOT4FlorFZthMCNG1WZY7fGdTp_mxBIRkf8/edit?usp=sharing)
+| Wed 3/9/22 | 3/11/22 | Meanglish Assignment continued
+| Fri 3/11/22 | 3/11/22 | Integer bingo and wordle fun
+| **Week 11** | (3/21-3/25)
+| Mon 3/21/22 | 3/25/22 | [Solving perfect squares](https://docs.google.com/document/d/1Mc4tV-64oa9G7GqdiEJk7QdB-WW6sSN6V7y7q-HvkF8/edit?usp=sharing)
+| Wed 3/23/22| 3/25/22 | [Completing the square 1](https://docs.google.com/document/d/10rpITTg2BOT4FlorFZthMCNG1WZY7fGdTp_mxBIRkf8/edit?usp=sharing)

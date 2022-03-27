@@ -28,7 +28,7 @@
 |**Week 7** (2/14-2/18)
 |Mon 2/14/22 | Fri 2/18/22 | Experiment 5.1 parts 1,2,3 from chapter 5 |
 | | | Read and copy the Lemma on page 125 and Theorem page 126|
-|Wed 2/16/22 | Fri 2/18/22 | 5.1 1,3-6 time permitting 2,9,13,14 
+|Wed 2/16/22 | Fri 2/18/22 | 5.1 1,3-6 time permitting 2,9,13,14
 |**Week 8** (2/21-2/25)
 |Wed 2/23/22 | Fri 2/25/22 | 5.2 1-6,10,11,13,14 time permitting 19-21
 |Fri 2/25/22 | Fri 2/25/22 | 5.3 1-8 TP 9, 12
@@ -41,3 +41,8 @@
 |Fri 3/11/22 | Fri 3/11/22 | Bingo and wordle fun
 |**Week 11** (3/21-3/25)
 |Mon 3/21/22 | Fri 3/25/22 | Chapter 6 Painless geometry, all assignments and experiments
+| ** Week 12** | (3/28 - 4/1)
+| Mon 3/28 | Fri 4/1 | 8.1 1-4, 5ace, 6ace
+|          | Fri 4/1 | Exp 8-1 1,2,3
+|          | Fri 4/1 | Exp 8-2 (Time permitting)
+|          | Fri 4/1 | 3.2 1-6, 10, 12, time permitting 13,14

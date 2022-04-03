@@ -43,7 +43,12 @@
 | Mon 3/21/22 | 3/25/22 | [Solving perfect squares](https://docs.google.com/document/d/1Mc4tV-64oa9G7GqdiEJk7QdB-WW6sSN6V7y7q-HvkF8/edit?usp=sharing)
 | Wed 3/23/22| 3/25/22 | [Completing the square 1](https://docs.google.com/document/d/10rpITTg2BOT4FlorFZthMCNG1WZY7fGdTp_mxBIRkf8/edit?usp=sharing)
 | Fri 3/25/22 | 3/25/22| [Completing the square problems 30-47](alg-complete-square-page.jpeg)
-| ** Week 12** | (3/28 - 4/1)
+| **Week 12** | (3/28 - 4/1)
 | Mon 3/28 | Fri 4/1 | 12-2 25,26,30,39-45
 | Wed 3/30 | Fri 4/1 | 12-3 10,12,13-17,18-20,31-35
-| Fri 4/1  | Fri 4/1 | 12-4 1-9o, 1015,23-33o,35-41o,51-53 time permitting 69,71,73
+| **Week 13**| 4/4-4/8
+| Mon 4/4  | Fri 4/8 | 12-4 1-9o, 1015,23-33o,35-41o,51-53 time permitting 69,71,73
+| Wed 4/6 | Fri 4/8 | 9-1 1-5,11-16,21-24,33-36,41-44,55-58
+| Fri 4/8 | Fri 4/8 | 9-2 1-11o,25-33o,61-71o,76,77
+| **Week 14** | 4/11 to 4/15
+| Mon 4/11| Fri 4/15 | [Biography project instructions](../2019/math/biography-project)

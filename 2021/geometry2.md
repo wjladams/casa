@@ -41,8 +41,12 @@
 |Fri 3/11/22 | Fri 3/11/22 | Bingo and wordle fun
 |**Week 11** (3/21-3/25)
 |Mon 3/21/22 | Fri 3/25/22 | Chapter 6 Painless geometry, all assignments and experiments
-| ** Week 12** | (3/28 - 4/1)
+| **Week 12** | (3/28 - 4/1)
 | Mon 3/28 | Fri 4/1 | 8.1 1-4, 5ace, 6ace
-|          | Fri 4/1 | Exp 8-1 1,2,3
-|          | Fri 4/1 | Exp 8-2 (Time permitting)
-|          | Fri 4/1 | 3.2 1-6, 10, 12, time permitting 13,14
+| Wed 3/30 | Fri 4/1 | 12-3 10,12,13-17,18-20,31-35
+| **Week 13**| (4/4-4/8)
+| Mon 4/4    | Fri 4/8 | Exp 8-1 1,2,3
+| Wed 4/6         | Fri 4/8 | 8.2 1-6, 10, 12, time permitting 13,14
+| Fri 4/8   | Fri 4/8 | 8.3 1-4
+| **Week 14** | 4/11 to 4/15
+| Mon 4/11| Fri 4/15 | [Biography project instructions](../2019/math/biography-project)

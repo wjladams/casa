@@ -47,7 +47,7 @@
 | Mon 3/28 | Fri 4/1 | 12-2 25,26,30,39-45
 | Wed 3/30 | Fri 4/1 | 12-3 10,12,13-17,18-20,31-35
 | **Week 13**| 4/4-4/8
-| Mon 4/4  | Fri 4/8 | 12-4 1-9o, 1015,23-33o,35-41o,51-53 time permitting 69,71,73
+| Mon 4/4  | Fri 4/8 | [Graphing quadratic equations](https://docs.google.com/document/d/1O9ZyCLNY2lgFxndHm9K2PrnxgvqLp4pMlKEB8TaTQNA/edit?usp=sharing)
 | Wed 4/6 | Fri 4/8 | 9-1 1-5,11-16,21-24,33-36,41-44,55-58
 | Fri 4/8 | Fri 4/8 | 9-2 1-11o,25-33o,61-71o,76,77
 | **Week 14** | 4/11 to 4/15

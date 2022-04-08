@@ -4,7 +4,7 @@ The main component of the biography is a presentation.
 
 ## Directions
 
-1. Pick 3 mathematicians, and write 2 sentences about why you find them interesting.  Your biography will be on one of these 3 mathematicians.
+1. Pick 3 mathematicians (you can use [the timeline of mathematics](https://mathigon.org/timeline/) for ideas of mathematicians), and write 2 sentences about why you find them interesting.  Your biography will be on one of these 3 mathematicians.
 2. Pick your mathematician for the biography.
 3. Find 3 resources for information and turn in:
     1. Include URL's, author information, title for each resource (you will turn this into MLA format later).

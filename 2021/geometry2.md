@@ -59,3 +59,4 @@
 | **Week 17**| 5/2 to 5/6
 | Mon 5/2 | 5/6 | 10-2 1-21o, 27-47o, 51-63o
 | Fri 5/6 | | Start [Students Teach Assignment](https://docs.google.com/document/d/1SYmQ68pv5Pv-xqF2r-it9J475UWIuOY7nHEq-CzxU0M/edit?usp=sharing)
+| **Week 18**| 5/9 to 5/15 | On Odyssey Trip

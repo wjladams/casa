@@ -52,3 +52,10 @@
 | Fri 4/8 | Fri 4/8 | 9-2 1-11o,25-33o,61-71o,76,77
 | **Week 14** | 4/11 to 4/15
 | Mon 4/11| Fri 4/15 | [Biography project instructions](../2019/math/biography-project)
+| **Week 15** | 4/18 to 4/22
+| Mon 4/18 | Fri 4/22 | [Biography project redo](math/biography-project-redo)
+| **Week 16** | 4/25 to 4/29
+| Mon 4/25 | 4/29 | 12-4 1-9o, 10-15,23-33o,35-41o,51-53o,69,71,73
+| **Week 17**| 5/2 to 5/6
+| Mon 5/2 | 5/6 | 10-2 1-21o, 27-47o, 51-63o
+| Fri 5/6 | | Start [Students Teach Assignment](https://docs.google.com/document/d/1SYmQ68pv5Pv-xqF2r-it9J475UWIuOY7nHEq-CzxU0M/edit?usp=sharing)

@@ -60,3 +60,9 @@
 | Mon 5/2 | 5/6 | 10-2 1-21o, 27-47o, 51-63o
 | Fri 5/6 | | Start [Students Teach Assignment](https://docs.google.com/document/d/1SYmQ68pv5Pv-xqF2r-it9J475UWIuOY7nHEq-CzxU0M/edit?usp=sharing)
 | **Week 18**| 5/9 to 5/15 | On Odyssey Trip
+| **Week 19**| 5/16 to 5/20|
+|M| | Review Fall Semester in notebooks
+|W| | Review Spring Semester in notebooks
+|Th 5/19 | Fri 5/20 | [Practice Algebra Final Exam](https://docs.google.com/document/d/1AtDVGgEJXLWmED4Vq6HE3FHj1y39Bj0HCyu44paxdrc/edit?usp=sharing)
+| **Week 20**| 5/23 to 5/27|
+|Mon 5/23 | Mon 5/23 | [Final Exam Algebra](https://docs.google.com/document/d/1u1Ac04X0sKtMxP2TGvspZ1cjgu4AwT6-keBdRQ3HuTM/edit?usp=sharing) and [solution guide](https://github.com/wjladams/casa/raw/master/2021/FinalAlgebra2022-Solns.pdf)
